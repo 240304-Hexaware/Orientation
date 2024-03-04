@@ -54,8 +54,8 @@ Software:
  - [Apache Maven](https://maven.apache.org/download.cgi) - manual install, no installer, unzip and add to PATH
  - [MongoDB & compass](https://www.mongodb.com/try/download/community) - see notes
  - [MongoSH](https://www.mongodb.com/try/download/shell) - The mongoDB shell, manual install
- - Postman - software, not agent!
- - VSCode + extensions
+ - [Postman](https://www.postman.com/downloads/) - software, not agent!
+ - [VSCode](https://code.visualstudio.com/download) + extensions
    - JS/TS nightly - Microsoft
    - Angular Language Service - Angular
    - Babel JS - Michael McDermott
