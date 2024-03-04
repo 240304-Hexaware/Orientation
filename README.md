@@ -48,11 +48,12 @@ Access:
  - Training Sharepoint
 
 Software:
- - git SCM
- - Java JDK - prefer version 17 or newer - "java -version"
- - IntelliJ Community
- - Apache Maven
- - MongoDB & compass - see notes
+ - [Git SCM](https://git-scm.com/)
+ - [Java JDK](https://adoptium.net/) - prefer version 17 or newer - "java -version"
+ - [IntelliJ Community](https://www.jetbrains.com/idea/download)
+ - [Apache Maven](https://maven.apache.org/download.cgi) - manual install, no installer, unzip and add to PATH
+ - [MongoDB & compass](https://www.mongodb.com/try/download/community) - see notes
+ - [MongoSH](https://www.mongodb.com/try/download/shell) - The mongoDB shell, manual install
  - Postman - software, not agent!
  - VSCode + extensions
    - JS/TS nightly - Microsoft
