@@ -25,7 +25,7 @@ Unstructured time is not free time! You are at work, which means you need to be 
 
 
 ## Leetcode - Container With Most Water
-Firstly, let's take a look at leetcode. This is a great web site full of code challenges. Today I want to look at the [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) challenge. As we go about making sure everyone has the access and software necessary, you might get a bit bored. I would suggest taking a look at this or other code challenges.
+Let's take a look at leetcode. This is a great web site full of code challenges. Today I want to look at the [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) challenge. As we go about making sure everyone has the access and software necessary, you might get a bit bored. I would suggest taking a look at this or other code challenges.
 
 ## Onboarding & Setup
 We are going to make sure everyone has access to everything and has all necessary software installed. This will likely take the rest of the day. This is always a painful process. IF you aren't in need of any assistance, please be patient and treat this as unstructured time.
