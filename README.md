@@ -5,6 +5,17 @@ Welcome to Revature. Here's the plan for the first day:
  - Lunch 1:00 PM - 2:00 PM
  - Training Oboarding & Setup 2:00 PM - 6:00 PM
 
+Here's the plan for the rest of the week:
+ - Monday - Orientation, Onboarding, & Setup
+   - Code Challenge: Container With Most Water
+ - Tuesday - Intro to MongoDB
+   - QC Orientation at 10:00 AM
+ - Wednesday - Modeling & Querying MongoDB
+   - Code Challenge: Product of Array Except Self
+ - Thursday - Mongo Scaling, Aggregation, and Transactions.
+ - Friday - Review, & OWASP21 Primer
+   - Code Challenge: Invert a Binary Tree
+
 ## Contracts
 **I'm not familiar with the details of your contracts.**
 
