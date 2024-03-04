@@ -2,7 +2,9 @@
 Welcome to Revature. Here's the plan for the first day:
 
 Orientation 10:00 AM - 1:00 PM
+
 Lunch 1:00 PM - 2:00 PM
+
 Training Oboarding & Setup 2:00 PM - 6:00 PM
 
 ## Unstructured Time
